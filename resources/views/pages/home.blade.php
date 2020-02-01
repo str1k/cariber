@@ -427,7 +427,7 @@
                          data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
                          data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                          data-start="1600" data-splitin="none" data-splitout="none">
-                        <h3 class="font-xlight">Only 2% make it past the first round</h1>
+                        <h3 class="font-xlight" style="font-size:40px;" >Only 2% make it past the first round</h3>
                     </div>
                     <div class="tp-caption tp-resizeme z-index-15"
                          data-x="['center','center','center','center']" data-hoffset="['10','10','10','10']"
@@ -538,7 +538,7 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 text-center">
                 <div class="heading-title whitecolor wow fadeInUp" data-wow-delay="300ms">
-                    <span>Quisque tellus risus, adipisci </span>
+                    <span></span>
                     <h2 class="font-normal">BUILD A RESUME WITHIN MINUTES </h2>
                 </div>
             </div>
