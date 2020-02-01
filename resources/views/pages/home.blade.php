@@ -567,8 +567,8 @@
                 </li>
                 <li class="whitecolor wow fadeIn" data-wow-delay="700ms">
                     <span class="pro-step bottom20">05</span>
-                    <p class="fontbold bottom25">Quality Check</p>
-                    <p class="mt-n2 mt-sm-0">Quisque tellus risus, adipisci viverra bibendum urna.</p>
+                    <p class="fontbold bottom25">Finalize and download your resume</p>
+                    <p class="mt-n2 mt-sm-0">Preview and finalize your details before downloading in both doc and PDF formats</p>
                 </li>
             </ul>
         </div>
