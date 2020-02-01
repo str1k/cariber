@@ -488,9 +488,6 @@
                         <img src="images/iphone-slide-lock.jpg" alt="">
                     </div>
                     <div id="app-slider" class="owl-carousel owl-theme owl-loaded owl-drag">
-
-
-
                         <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-470px, 0px, 0px); transition: all 0s ease 0s; width: 1645px;"><div class="owl-item cloned" style="width: 235px;"><div class="item">
                             <img src="images/iphone-slide2.jpg" alt="">
                         </div></div><div class="owl-item cloned" style="width: 235px;"><div class="item">
@@ -542,7 +539,7 @@
             <div class="col-md-12 col-sm-12 text-center">
                 <div class="heading-title whitecolor wow fadeInUp" data-wow-delay="300ms">
                     <span>Quisque tellus risus, adipisci </span>
-                    <h2 class="font-normal">Our Work Process </h2>
+                    <h2 class="font-normal">BUILD A RESUME WITHIN MINUTES </h2>
                 </div>
             </div>
         </div>
@@ -550,18 +547,18 @@
             <ul class="process-wrapp no-rounded">
                 <li class="whitecolor wow fadeIn" data-wow-delay="300ms">
                     <span class="pro-step bottom20">01</span>
-                    <p class="fontbold bottom25">Concept</p>
+                    <p class="fontbold bottom25">Select templates</p>
                     <p class="mt-n2 mt-sm-0">Quisque tellus risus, adipisci viverra bibendum urna.</p>
                 </li>
                 <li class="whitecolor wow fadeIn" data-wow-delay="400ms">
                     <span class="pro-step bottom20">02</span>
-                    <p class="fontbold bottom25">Plan</p>
-                    <p class="mt-n2 mt-sm-0">Quisque tellus risus, adipisci viverra bibendum urna.</p>
+                    <p class="fontbold bottom25">Tell us about yourself</p>
+                    <p class="mt-n2 mt-sm-0">Fill in your personal information for recruiters to know you more</p>
                 </li>
                 <li class="whitecolor wow fadeIn" data-wow-delay="500ms">
                     <span class="pro-step bottom20">03</span>
-                    <p class="fontbold bottom25">Design</p>
-                    <p class="mt-n2 mt-sm-0">Quisque tellus risus, adipisci viverra bibendum urna.</p>
+                    <p class="fontbold bottom25">Include your education and work experience</p>
+                    <p class="mt-n2 mt-sm-0">Edit and select pre-written sentences personalized to your experience</p>
                 </li>
                 <li class="whitecolor wow fadeIn" data-wow-delay="600ms">
                     <span class="pro-step bottom20">04</span>
