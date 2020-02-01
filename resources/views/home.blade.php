@@ -505,67 +505,103 @@
     <a href="#our-feature" class="scroll-down pagescroll darkcolor hover-default">Scroll Down <i class="fas fa-long-arrow-alt-down"></i></a>
 </section>
 <!--slider end-->
-<!--Some Feature -->
-<section id="our-feature" class="single-feature padding">
-    <div class="container">
-        <div class="row d-flex align-items-center">
-            <div class="col-lg-6 col-md-7 col-sm-7 text-sm-left text-center wow fadeInLeft" data-wow-delay="300ms">
-                <div class="heading-title mb-4">
-                    <h2 class="darkcolor font-normal bottom30">Lets take your <span class="defaultcolor">Business</span> to Next Level</h2>
+
+<!-- Testimonials -->
+<section id="our-testimonial" class="bglight padding_bottom">
+    <div class="parallax page-header testimonial-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-6 col-md-12 text-center text-lg-right">
+                    <div class="heading-title wow fadeInUp padding_testi" data-wow-delay="300ms">
+                        <span class="whitecolor">Quisque tellus risus, adipisci</span>
+                        <h2 class="whitecolor font-normal">What People Say</h2>
+                    </div>
                 </div>
-                <p class="bottom35">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mauris arcu, lobortis id interdum vitae, interdum eget elit. Curabitur quis urna nulla. Suspendisse potenti. Duis suscipit ultrices maximus. </p>
-                <a href="#our-team" class="button btnsecondary gradient-btn pagescroll mb-sm-0 mb-4">Learn More</a>
             </div>
-            <div class="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">
-                <div class="image"><img alt="SEO" src="images/awesome-feature.png"></div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="owl-carousel" id="testimonial-slider">
+            <!--item 1-->
+            <div class="item testi-box no-rounded">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 col-md-12 text-center">
+                        <div class="testimonial-round d-inline-block">
+                            <img src="images/testimonial-1.jpg" alt="">
+                        </div>
+                        <h4 class="defaultcolor font-light top15"><a href="#.">John Smith</a></h4>
+                        <p>UPWORK, New York</p>
+                    </div>
+                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
+                        <p class="bottom15 top90">We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we boast a years and years of service.</p>
+                        <span class="d-inline-block test-star">
+                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i> <i class="fas fa-star"></i>
+                                </span>
+                    </div>
+                </div>
+            </div>
+            <!--item 2-->
+            <div class="item testi-box no-rounded">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 col-md-12 text-center">
+                        <div class="testimonial-round d-inline-block">
+                            <img src="images/testimonial-2.jpg" alt="">
+                        </div>
+                        <h4 class="defaultcolor font-light top15"><a href="#.">Hayden Wood</a></h4>
+                        <p>FIVERR, Italy</p>
+                    </div>
+                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
+                        <p class="bottom15 top90">Trax’s customer testimonial page is another beauty. Its simple design focuses on videos and standout quotes from customers. This approach is clean, straightforward, text that can be overwhelming and easy to skip.</p>
+                        <span class="d-inline-block test-star">
+                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i> <i class="far fa-star"></i>
+                                </span>
+                    </div>
+                </div>
+            </div>
+            <!--item 3-->
+            <div class="item testi-box no-rounded">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 col-md-12 text-center">
+                        <div class="testimonial-round d-inline-block">
+                            <img src="images/testimonial-3.jpg" alt="">
+                        </div>
+                        <h4 class="defaultcolor font-light top15"><a href="#.">Kevin Miller</a></h4>
+                        <p>ENVATO, Australia</p>
+                    </div>
+                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
+                        <p class="bottom15 top90">Trax is a company that provides tools to help professional event planning and execution, and their customers are very happy folks! The thing I love about their customer testimonial page provides content formats.</p>
+                        <span class="d-inline-block test-star">
+                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i> <i class="fas fa-star"></i>
+                                </span>
+                    </div>
+                </div>
+            </div>
+            <!--item 4-->
+            <div class="item testi-box no-rounded">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 col-md-12 text-center">
+                        <div class="testimonial-round d-inline-block">
+                            <img src="images/testimonial-4.jpg" alt="">
+                        </div>
+                        <h4 class="defaultcolor font-light top15"><a href="#.">Alina Johanson</a></h4>
+                        <p>INTEL, Sidney</p>
+                    </div>
+                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
+                        <p class="bottom15 top90">Startup Institute is a career accelerator that allows professionals to learn new skills, take their careers in a different direction, and pursue a career they are passionate about that have completed the program.</p>
+                        <span class="d-inline-block test-star">
+                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i> <i class="far fa-star"></i>
+                                </span>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </section>
-<!--Some Feature ends-->
-<!-- WOrk Process-->
-<section id="our-process" class="padding bgdark">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 text-center">
-                <div class="heading-title whitecolor wow fadeInUp" data-wow-delay="300ms">
-                    <span>Quisque tellus risus, adipisci </span>
-                    <h2 class="font-normal">Our Work Process </h2>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <ul class="process-wrapp no-rounded">
-                <li class="whitecolor wow fadeIn" data-wow-delay="300ms">
-                    <span class="pro-step bottom20">01</span>
-                    <p class="fontbold bottom25">Concept</p>
-                    <p class="mt-n2 mt-sm-0">Quisque tellus risus, adipisci viverra bibendum urna.</p>
-                </li>
-                <li class="whitecolor wow fadeIn" data-wow-delay="400ms">
-                    <span class="pro-step bottom20">02</span>
-                    <p class="fontbold bottom25">Plan</p>
-                    <p class="mt-n2 mt-sm-0">Quisque tellus risus, adipisci viverra bibendum urna.</p>
-                </li>
-                <li class="whitecolor wow fadeIn" data-wow-delay="500ms">
-                    <span class="pro-step bottom20">03</span>
-                    <p class="fontbold bottom25">Design</p>
-                    <p class="mt-n2 mt-sm-0">Quisque tellus risus, adipisci viverra bibendum urna.</p>
-                </li>
-                <li class="whitecolor wow fadeIn" data-wow-delay="600ms">
-                    <span class="pro-step bottom20">04</span>
-                    <p class="fontbold bottom25">Development</p>
-                    <p class="mt-n2 mt-sm-0">Quisque tellus risus, adipisci viverra bibendum urna.</p>
-                </li>
-                <li class="whitecolor wow fadeIn" data-wow-delay="700ms">
-                    <span class="pro-step bottom20">05</span>
-                    <p class="fontbold bottom25">Quality Check</p>
-                    <p class="mt-n2 mt-sm-0">Quisque tellus risus, adipisci viverra bibendum urna.</p>
-                </li>
-            </ul>
-        </div>
-    </div>
-</section>
-<!--WOrk Process ends-->
+<!--Testimonials Ends-->
 <!-- Mobile Apps -->
 <section id="our-apps" class="padding">
     <div class="container">
@@ -657,164 +693,6 @@
     </div>
 </section>
 <!--Mobile Apps ends-->
-<!-- Counters -->
-<section id="bg-counters" class="padding bg-counters parallax">
-    <div class="container">
-        <div class="row align-items-center text-center">
-            <div class="col-lg-4 col-md-4 col-sm-4 bottom10">
-                <div class="counters whitecolor  top10 bottom10">
-                    <span class="count_nums font-light" data-to="2010" data-speed="2500"> </span>
-                </div>
-                <h3 class="font-light whitecolor top20">Since We Started</h3>
-            </div>
-            <div class="col-lg-4 col-md-4 col-sm-4">
-                <p class="whitecolor top20 bottom20 font-light title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mauris arcu, lobortis id interdum vitae, interdum eget elit. </p>
-            </div>
-            <div class="col-lg-4 col-md-4 col-sm-4 bottom10">
-                <div class="counters whitecolor top10 bottom10">
-                    <span class="count_nums font-light" data-to="895" data-speed="2500"> </span>
-                </div>
-                <h3 class="font-light whitecolor top20">Since We Started</h3>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Counters ends-->
-<!-- Our Team-->
-<section id="our-team" class="padding_top half-section-alt teams-border">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-12">
-                <div class="heading-title heading_space wow fadeInUp" data-wow-delay="300ms">
-                    <span class="defaultcolor text-center text-md-left">Quisque tellus risus, adipisci</span>
-                    <h2 class="darkcolor font-normal text-center text-md-left">Meet Our Experts</h2>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12">
-                <p class="heading_space mt-n3 mt-sm-0 text-center text-md-left">Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus. </p>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <div id="ourteam-slider" class="owl-carousel">
-                    <div class="item">
-                        <div class="team-box">
-                            <div class="image">
-                                <img src="images/team-1.jpg" alt="">
-                            </div>
-                            <div class="team-content">
-                                <h4 class="darkcolor">Jessica Twain</h4>
-                                <p>Agency Owner</p>
-                                <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i> </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a> </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a> </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="team-box">
-                            <div class="image">
-                                <img src="images/team-2.jpg" alt="">
-                            </div>
-                            <div class="team-content">
-                                <h4 class="darkcolor">Jason Wudex </h4>
-                                <p>Designer</p>
-                                <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i> </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a> </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a> </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="team-box single">
-                            <div class="image">
-                                <img src="images/team-3.jpg" alt="">
-                            </div>
-                            <div class="team-content">
-                                <h4 class="darkcolor">Jessica Twain</h4>
-                                <p>Agency Owner</p>
-                                <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i> </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a> </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a> </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="team-box">
-                            <div class="image">
-                                <img src="images/team-4.jpg" alt="">
-                            </div>
-                            <div class="team-content">
-                                <h4 class="darkcolor">Hayden Wood</h4>
-                                <p>Marketing</p>
-                                <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i> </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a> </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a> </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="team-box">
-                            <div class="image">
-                                <img src="images/team-1.jpg" alt="">
-                            </div>
-                            <div class="team-content">
-                                <h4 class="darkcolor">Shania Jackson </h4>
-                                <p>Print Media</p>
-                                <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i> </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a> </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a> </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="team-box">
-                            <div class="image">
-                                <img src="images/team-2.jpg" alt="">
-                            </div>
-                            <div class="team-content">
-                                <h4 class="darkcolor">Jessica Twain</h4>
-                                <p>Agency Owner</p>
-                                <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i> </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a> </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a> </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="team-box">
-                            <div class="image">
-                                <img src="images/team-3.jpg" alt="">
-                            </div>
-                            <div class="team-content">
-                                <h4 class="darkcolor">Jessica Twain</h4>
-                                <p>Agency Owner</p>
-                                <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i> </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a> </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a> </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Our Team ends-->
 <!--Pricing Start-->
 <section id="pricing" class="padding bglight">
     <div class="container">
@@ -948,102 +826,7 @@
     </div>
 </section>
 <!-- Partners ends-->
-<!-- Testimonials -->
-<section id="our-testimonial" class="bglight padding_bottom">
-    <div class="parallax page-header testimonial-bg">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 offset-lg-6 col-md-12 text-center text-lg-right">
-                    <div class="heading-title wow fadeInUp padding_testi" data-wow-delay="300ms">
-                        <span class="whitecolor">Quisque tellus risus, adipisci</span>
-                        <h2 class="whitecolor font-normal">What People Say</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="owl-carousel" id="testimonial-slider">
-            <!--item 1-->
-            <div class="item testi-box no-rounded">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-1.jpg" alt="">
-                        </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">John Smith</a></h4>
-                        <p>UPWORK, New York</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we boast a years and years of service.</p>
-                        <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                </span>
-                    </div>
-                </div>
-            </div>
-            <!--item 2-->
-            <div class="item testi-box no-rounded">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-2.jpg" alt="">
-                        </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">Hayden Wood</a></h4>
-                        <p>FIVERR, Italy</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">Trax’s customer testimonial page is another beauty. Its simple design focuses on videos and standout quotes from customers. This approach is clean, straightforward, text that can be overwhelming and easy to skip.</p>
-                        <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="far fa-star"></i>
-                                </span>
-                    </div>
-                </div>
-            </div>
-            <!--item 3-->
-            <div class="item testi-box no-rounded">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-3.jpg" alt="">
-                        </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">Kevin Miller</a></h4>
-                        <p>ENVATO, Australia</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">Trax is a company that provides tools to help professional event planning and execution, and their customers are very happy folks! The thing I love about their customer testimonial page provides content formats.</p>
-                        <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                </span>
-                    </div>
-                </div>
-            </div>
-            <!--item 4-->
-            <div class="item testi-box no-rounded">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-4.jpg" alt="">
-                        </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">Alina Johanson</a></h4>
-                        <p>INTEL, Sidney</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">Startup Institute is a career accelerator that allows professionals to learn new skills, take their careers in a different direction, and pursue a career they are passionate about that have completed the program.</p>
-                        <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="far fa-star"></i>
-                                </span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--Testimonials Ends-->
+
 <!-- Contact US -->
 <section id="stayconnect" class="bglight position-relative">
     <div class="container">
