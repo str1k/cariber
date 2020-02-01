@@ -402,7 +402,7 @@
                          data-transform_in="x:-50px;opacity:0;s:2000;e:Power3.easeOut;"
                          data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
                          data-start="1000" data-splitin="none" data-splitout="none">
-                        <h2 class="font-xlight">We're Design Master</h2>
+                        <h2 class="font-xlight">IT'S DIFFICULT TO BUILD</h2>
                     </div>
                     <div class="tp-caption tp-resizeme z-index-15"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -414,7 +414,7 @@
                          data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
                          data-transform_out="s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
                          data-start="900" data-splitin="none" data-splitout="none">
-                        <h2 class="font-bold">Believes In</h2>
+                        <h2 class="font-bold">A PERFECT RESUME</h2>
                     </div>
                     <div class="tp-caption tp-resizeme z-index-15"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -427,13 +427,13 @@
                          data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
                          data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                          data-start="1600" data-splitin="none" data-splitout="none">
-                        <h2 class="font-xlight">A Great Innovation</h2>
+                        <h3 class="font-xlight">Only 2% make it past the first round</h1>
                     </div>
                     <div class="tp-caption tp-resizeme z-index-15"
                          data-x="['center','center','center','center']" data-hoffset="['10','10','10','10']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['140','140','140','140']"
                          data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power4.easeInOut;" data-transform_out="s:900;e:Power2.easeInOut;s:900;e:Power2.easeInOut;" data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                        <a class="transition-3 button btn-primary button-padding font-13" href="javascript:void(0)">Learn More</a>
+                        <a class="transition-3 button btn-primary button-padding font-13" href="javascript:void(0)">BUILD MY RESUME FOR FREE</a>
                     </div>
                 </li>
             </ul>
@@ -444,115 +444,18 @@
     <a href="#our-feature" class="scroll-down pagescroll darkcolor hover-default">Scroll Down <i class="fas fa-long-arrow-alt-down"></i></a>
 </section>
 <!--slider end-->
-
-<!-- Testimonials -->
-<section id="our-testimonial" class="bglight padding_bottom">
-    <div class="parallax page-header testimonial-bg">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 offset-lg-6 col-md-12 text-center text-lg-right">
-                    <div class="heading-title wow fadeInUp padding_testi" data-wow-delay="300ms">
-                        <span class="whitecolor">Quisque tellus risus, adipisci</span>
-                        <h2 class="whitecolor font-normal">What People Say</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="owl-carousel" id="testimonial-slider">
-            <!--item 1-->
-            <div class="item testi-box no-rounded">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-1.jpg" alt="">
-                        </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">John Smith</a></h4>
-                        <p>UPWORK, New York</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we boast a years and years of service.</p>
-                        <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                </span>
-                    </div>
-                </div>
-            </div>
-            <!--item 2-->
-            <div class="item testi-box no-rounded">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-2.jpg" alt="">
-                        </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">Hayden Wood</a></h4>
-                        <p>FIVERR, Italy</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">Trax’s customer testimonial page is another beauty. Its simple design focuses on videos and standout quotes from customers. This approach is clean, straightforward, text that can be overwhelming and easy to skip.</p>
-                        <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="far fa-star"></i>
-                                </span>
-                    </div>
-                </div>
-            </div>
-            <!--item 3-->
-            <div class="item testi-box no-rounded">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-3.jpg" alt="">
-                        </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">Kevin Miller</a></h4>
-                        <p>ENVATO, Australia</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">Trax is a company that provides tools to help professional event planning and execution, and their customers are very happy folks! The thing I love about their customer testimonial page provides content formats.</p>
-                        <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                </span>
-                    </div>
-                </div>
-            </div>
-            <!--item 4-->
-            <div class="item testi-box no-rounded">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-4.jpg" alt="">
-                        </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">Alina Johanson</a></h4>
-                        <p>INTEL, Sidney</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">Startup Institute is a career accelerator that allows professionals to learn new skills, take their careers in a different direction, and pursue a career they are passionate about that have completed the program.</p>
-                        <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="far fa-star"></i>
-                                </span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--Testimonials Ends-->
 <!-- Mobile Apps -->
 <section id="our-apps" class="padding">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-7 col-sm-12">
                 <div class="heading-title bottom30 wow fadeInUp" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInUp;">
-                    <span class="defaultcolor text-center text-md-left">Quisque tellus risus, adipisci viverra</span>
-                    <h2 class="darkcolor font-normal text-center text-md-left">Mobile App Designs</h2>
+                    <h2 class="darkcolor font-normal text-center text-md-left">OUR SERVICES</h2>
+                    <h3 class="defaultcolor text-center text-md-left">Build a resume within minutes</h3>
                 </div>
             </div>
             <div class="col-lg-6 col-md-5 col-sm-12">
-                <p class="text-center text-md-left">Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus. </p>
+                <p class="text-center text-md-left"> </p>
             </div>
         </div>
         <div class="row d-flex align-items-center" id="app-feature">
@@ -562,18 +465,18 @@
                         <div class="icon"><i class="fas fa-cog"></i></div>
                         <div class="text">
                             <h3 class="bottom15">
-                                <span class="d-inline-block">Theme Options</span>
+                                <span class="d-inline-block">Best Resume Templates</span>
                             </h3>
-                            <p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet</p>
+                            <p>Select a modern and professional template from experts</p>
                         </div>
                     </div>
                     <div class="feature-item mt-5 wow fadeInLeft innovative-border arr-left" data-wow-delay="350ms" style="visibility: visible; animation-delay: 350ms; animation-name: fadeInLeft;">
                         <div class="icon"><i class="fas fa-edit"></i></div>
                         <div class="text">
                             <h3 class="bottom15">
-                                <span class="d-inline-block">Customization</span>
+                                <span class="d-inline-block">Professional Resume Tips</span>
                             </h3>
-                            <p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet</p>
+                            <p>Listen to valuable tips & tricks in every section</p>
                         </div>
                     </div>
                 </div>
@@ -612,18 +515,18 @@
                         <div class="icon"><i class="fas fa-code"></i></div>
                         <div class="text">
                             <h3 class="bottom15">
-                                <span class="d-inline-block">Powerful Code</span>
+                                <span class="d-inline-block">Personalized Suggested Sentences</span>
                             </h3>
-                            <p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet</p>
+                            <p>Use our professional pre-written sentences to empower your resume</p>
                         </div>
                     </div>
                     <div class="feature-item mt-5 wow fadeInRight innovative-border arr-right" data-wow-delay="350ms" style="visibility: visible; animation-delay: 350ms; animation-name: fadeInRight;">
                         <div class="icon"><i class="far fa-folder-open"></i></div>
                         <div class="text">
                             <h3 class="bottom15">
-                                <span class="d-inline-block">Documentation </span>
+                                <span class="d-inline-block">Free Download </span>
                             </h3>
-                            <p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet</p>
+                            <p>Instantly download your resume in both doc and PDF formats</p>
                         </div>
                     </div>
                 </div>
@@ -632,94 +535,4 @@
     </div>
 </section>
 <!--Mobile Apps ends-->
-<!--Pricing Start-->
-<section id="pricing" class="padding bglight">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 text-center">
-                <div class="heading-title darkcolor wow fadeInUp" data-wow-delay="300ms">
-                    <span class="defaultcolor">Quisque tellus risus, adipisci </span>
-                    <h2 class="font-normal bottom40"> Pricing Offers </h2>
-                </div>
-            </div>
-            <div class="col-12 text-center ">
-                <div class="price-toggle-wrapper heading_space">
-                    <span class="Pricing-toggle-button month active">Monthly</span>
-                    <span class="Pricing-toggle-button year">Yearly</span>
-                </div>
-            </div>
-        </div>
-        <div class="owl-carousel owl-theme no-dots" id="price-slider">
-            <div class="item">
-                <div class="col-md-12">
-                    <div class="pricing-item wow fadeInUp animated sale" data-wow-delay="300ms" data-sale="60">
-                        <h3 class="font-light darkcolor">Basic</h3>
-                        <p class="bottom30">The standard version</p>
-                        <div class="pricing-price darkcolor"><span class="pricing-currency">$9.95</span> /<span class="pricing-duration">month</span></div>
-                        <ul class="pricing-list">
-                            <li>Support forum</li>
-                            <li>Free hosting</li>
-                            <li class="price-not">40MB of storage space</li>
-                            <li class="price-not">Social media integration</li>
-                            <li class="price-not">10GB of storage space</li>
-                        </ul>
-                        <a class="button" href="javascript:void(0)">Choose plan</a>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="col-md-12">
-                    <div class="pricing-item sale wow fadeInUp animated" data-wow-delay="380ms" data-sale="40">
-                        <h3 class="font-light darkcolor">Popular</h3>
-                        <p class="bottom30">The standard version</p>
-                        <div class="pricing-price darkcolor"><span class="pricing-currency">$19.95</span> /<span class="pricing-duration">month</span></div>
-                        <ul class="pricing-list">
-                            <li>Support forum</li>
-                            <li>Free hosting</li>
-                            <li>40MB of storage space</li>
-                            <li class="price-not">Social media integration</li>
-                            <li class="price-not">10GB of storage space</li>
-                        </ul>
-                        <a class="button" href="javascript:void(0)">Choose plan</a>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="col-md-12">
-                    <div class="pricing-item wow fadeInUp animated sale" data-wow-delay="460ms" data-sale="30">
-                        <h3 class="font-light darkcolor">Enterprise</h3>
-                        <p class="bottom30">The standard version</p>
-                        <div class="pricing-price darkcolor"><span class="pricing-currency">$29.95</span> /<span class="pricing-duration">month</span></div>
-                        <ul class="pricing-list">
-                            <li>Support forum</li>
-                            <li>Free hosting</li>
-                            <li>40MB of storage space</li>
-                            <li>Social media integration</li>
-                            <li class="price-not">10GB of storage space</li>
-                        </ul>
-                        <a class="button" href="javascript:void(0)">Choose plan</a>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="col-md-12">
-                    <div class="pricing-item wow fadeInUp animated sale" data-wow-deeay="400ms" data-sale="20">
-                        <h3 class="font-light darkcolor">Ultimate</h3>
-                        <p class="bottom30">The standard version</p>
-                        <div class="pricing-price darkcolor"><span class="pricing-currency">$49.95</span> /<span class="pricing-duration">month</span></div>
-                        <ul class="pricing-list">
-                            <li>Support forum</li>
-                            <li>Free hosting</li>
-                            <li>40MB of storage space</li>
-                            <li>Social media integration</li>
-                            <li>10GB of storage space</li>
-                        </ul>
-                        <a class="button" href="javascript:void(0)">Choose plan</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--Pricing ends-->
 @stop
